@@ -1,0 +1,431 @@
+[
+    [
+    {
+        "title" :"Fragancia Boucheron Quatre Men",
+        "precio": 35000,
+        "descripcion": "Es una fragancia de la familia olfativa Almizcle Amaderado Floral para Hombres. Las Notas de Salida son hojas de violeta, lima (limón verde) y bergamota; las Notas de Corazón son lavanda, geranio y abrótano; las Notas de Fondo son ládano, trozos de madera a la deriva y pachulí.",
+        "rutaimg": "../imagenes/mens/Fragancia Boucheron Quatre Men.jpg",
+        "id": 1
+    },
+    {
+        "title": "Fragancia Burberry Touch for Men",
+        "precio": 10000 ,
+        "descripcion":"Es una fragancia de la familia olfativa Almizcle Amaderado Floral para Hombres.La Nariz detrás de esta fragrancia es Jean-Pierre Bethouart. Las Notas de Salida son hojas de violeta, abrótano y mandarina; las Notas de Corazón son pimienta blanca, cedro y nuez moscada; las Notas de Fondo son almizcle blanco, haba tonka y vetiver.",
+        "rutaimg": "../imagenes/mens/Fragancia Burberry Touch for Men.jpg",
+        "id": 2
+    },
+    {
+        "title": "Fragancia Calvin Klein Be",
+        "precio": 15000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Almizcle Floral Amaderado para Hombres y Mujeres. La Nariz detrás de esta fragrancia es Rene Morgenthaler. Las Notas de Salida son lavanda, notas verdes, bergamota, menta, enebro de Virginia y mandarina; las Notas de Corazón son hierba verde, durazno (melocotón), jazmín, fresia, magnolia y orquídea; las Notas de Fondo son almizcle, sándalo, cedro, vainilla, ámbar y opopónaco.",
+        "rutaimg": "../imagenes/mens/Fragancia Calvin Klein Be.jpg",
+        "id":3 
+    },
+    {
+        "title": "Fragancia Calvin Klein Defy",
+        "precio": 27000,
+        "descripcion": "Es una fragancia de la familia olfativa para Hombres. Esta fragrancia es nueva.La Nariz detrás de esta fragrancia es Pascal Gaurin. Las Notas de Salida son pimienta negra y mandarina; las Notas de Corazón son gamuza y saffiano leather; la Nota de Fondo es vetiver de Haití.",
+        "rutaimg": "../imagenes/mens/Fragancia Calvin Klein Defy.jpg",
+        "id": 4
+    },
+    {
+        "title": "Fragancia Calvin Klein Eternity Men",
+        "precio": 14500 ,
+        "descripcion": "Esta fragancia reinterpreta la esencia fougère original introduciendo una nueva nota amaderada. Una base potente y elegante de gamuza y vetiver se cubre con un corazón cálido de ciprés y geranio. Las seductoras notas de salida de salvia y manzana aportan una frescura vigorizante a la esencia persistente y cautivadora. Un elixir de un esmeralda intenso brilla en el interior del emblemático frasco, irradiando frescura y fuerza.",
+        "rutaimg": "../imagenes/mens/Fragancia Calvin Klein Eternity Men.jpg",
+        "id": 5
+    },
+    {
+        "title": "Fragancia Coach Blue Coach",
+        "precio": 12500 ,
+        "descripcion": "Es una fragancia de la familia olfativa Aromática Especiada para Hombres. Las Notas de Salida son lima (limón verde) y absenta; las Notas de Corazón son notas ozónicas y pimienta negra; las Notas de Fondo son ámbar y cedro.",
+        "rutaimg": "../imagenes/mens/Fragancia Coach Blue Coach.jpg",
+        "id": 6
+    },
+    {
+        "title": "Fragancia Davidoff Cool Water Man Parfum",
+        "precio": 17000,
+        "descripcion": "Es una fragancia de la familia olfativa Aromática Especiada para Hombres. Esta fragrancia es nueva. Las Notas de Salida son limón (lima ácida) y pimienta rosa; la Nota de Corazón es vetiver de Haití; la Nota de Fondo es sándalo.",
+        "rutaimg": "../imagenes/mens/Fragancia Davidoff Cool Water Man Parfum.jpg",
+        "id": 7
+    },
+    {
+        "title": "Dolce and Gabbana K Men",
+        "precio": 21000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Amaderada Aromática para Hombres. Las Notas de Salida son bayas de enebro, cítricos, naranja sanguina y limón siciliano (lima siciliana); las Notas de Corazón son pimiento morrón, lavanda, esclarea y geranio; las Notas de Fondo son vetiver, cedro y pachulí.",
+        "rutaimg": "../imagenes/mens/Dolce and Gabbana K Men.jpg",
+        "id": 8
+    },
+    {
+        "title": "Fragancia Dolce&Gabbana Light Blue Eau Intense Pour Homme",
+        "precio": 22000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Amaderada Acuática para Hombres. Las Notas de Salida son toronja (pomelo) y mandarina; las Notas de Corazón son agua de mar y enebro de Virginia; las Notas de Fondo son almizcle y Amberwood.",
+        "rutaimg": "../imagenes/mens/Fragancia Dolce&Gabbana Light Blue Eau Intense Pour Homme.jpg",
+        "id": 9
+    },
+    {
+        "title": "Fragancia Dolce&Gabbana Light Blue Pour Homme",
+        "precio": 16000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Cítrica Aromática para Hombres. Las Notas de Salida son toronja (pomelo), bergamota, mandarina siciliana y enebro de Virginia; las Notas de Corazón son pimienta, romero y palo de rosa de Brasil; las Notas de Fondo son almizcle, incienso y musgo de roble.",
+        "rutaimg": "../imagenes/mens/Fragancia Dolce&Gabbana Light Blue Pour Homme.jpg",
+        "id": 10
+    },
+    {
+        "title": "Fragancia Givenchy Gentleman",
+        "precio": 24000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Amaderada Aromática para Hombres. Las Notas de Salida son pimienta negra, lavanda y bergamota; las Notas de Corazón son raíz de lirio, clavos de olor y canela; las Notas de Fondo son vaina de vainilla negra, bálsamo de Tolú, haba tonka, benjuí y pachulí.",
+        "rutaimg": "../imagenes/mens/Fragancia Givenchy Gentleman.jpg",
+        "id": 11
+    },
+    {
+        "title": "Fragancia Hugo Boss Bottled Infinite",
+        "precio": 22000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Amaderada Aromática para Hombres. Boss Bottled Infinite se lanzó en 2019. Las Notas de Salida son manzana, canela, mandarina y salvia; las Notas de Corazón son lavanda, romero y pachulí; las Notas de Fondo son sándalo y olivo.",
+        "rutaimg": "../imagenes/mens/Fragancia Hugo Boss Bottled Infinite.jpg",
+        "id": 12
+    },
+    {
+        "title": "Fragancia Hugo Boss Bottled",
+        "precio": 20000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Amaderada Especiada para Hombres. Las Notas de Salida son manzana, ciruela, bergamota, limón (lima ácida), musgo de roble y geranio; las Notas de Corazón son canela, caoba y clavel; las Notas de Fondo son vainilla, sándalo, cedro, vetiver y olivo.",
+        "rutaimg": "../imagenes/mens/Fragancia Hugo Boss Bottled.jpg",
+        "id": 13
+    },
+    {
+        "title": "Fragancia Jimmy Choo Man",
+        "precio":20600 ,
+        "descripcion": "Es una fragancia efervescente con un estilo claramente masculino y seguro, con un refinado sentido del detalle y un rebelde toque de humor. Una aromática fougère amaderada que se abre sobre un arrebato de lavanda combinada con mandarina. En corazón, las notas frescas del geranio se encuentran con la hoja de piña para componer un acorde crujiente.",
+        "rutaimg": "../imagenes/mens/Fragancia Jimmy Choo Man.jpg",
+        "id": 14
+    },
+    {
+        "title": "Fragancia Jimmy Choo Urban Hero",
+        "precio": 38000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Amaderada para Hombres.Las Notas de Salida son piña y naranja sanguina; las Notas de Corazón son haba tonka y lavanda; las Notas de Fondo son sándalo y musgo de roble.",
+        "rutaimg": "../imagenes/mens/Fragancia Jimmy Choo Urban Hero.jpg",
+        "id": 15
+    },
+    {
+        "title": "Fragancia Lacoste L Homme",
+        "precio": 19000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Amaderada Especiada para Hombres. Las Notas de Salida son mandarina, ruibarbo, naranja dulce y membrillo; las Notas de Corazón son jengibre, almendra, pimienta negra y jazmín; las Notas de Fondo son vainilla, notas amaderadas, cedro, ámbar y almizcle.",
+        "rutaimg": "../imagenes/mens/Fragancia Lacoste L Homme.jpg",
+        "id": 16
+    },
+    {
+        "title": "Fragancia Montblanc Explorer Ultra Blue",
+        "precio": 26500 ,
+        "descripcion": "Es una fragancia de la familia olfativa Cítrica Aromática para Hombres. Las Notas de Salida son bergamota de Sicilia, pimienta rosa y frutas exóticas; las Notas de Corazón son notas marinas y ámbar gris; las Notas de Fondo son notas amaderadas, hojas de pachulí de Indonesia y cuero.",
+        "rutaimg": "../imagenes/mens/Fragancia Montblanc Explorer Ultra Blue.jpg",
+        "id": 17
+    },
+    {
+        "title": "Fragancia Mr Burberry",
+        "precio":21000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Amaderada Especiada para Hombres. Las Notas de Salida son cardamomo, menta, toronja (pomelo) y estragón; las Notas de Corazón son lavanda, nuez moscada y cedro; las Notas de Fondo son pachulí, canela, ámbar, benjuí, vetiver y sándalo.",
+        "rutaimg": "../imagenes/mens/Fragancia Mr Burberry.jpg",
+        "id": 18
+    },
+    {
+        "title": "Fragancia Paco Rabanne 1 Million Men",
+        "precio": 24000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Amaderada Especiada para Hombres. Las Notas de Salida son mandarina roja, toronja (pomelo) y menta; las Notas de Corazón son canela, notas especiadas y rosa; las Notas de Fondo son ámbar, cuero, notas amaderadas y pachulí hindú.",
+        "rutaimg": "../imagenes/mens/Fragancia Paco Rabanne 1 Million Men.jpg",
+        "id": 19
+    },
+    {
+        "title": "Fragancia Rochas L Homme Rochas",
+        "precio": 23000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Ámbar Fougère para Hombres. Las Notas de Salida son naranja sanguina, piña y cardamomo; las Notas de Corazón son bayas de enebro, geranio y albahaca; las Notas de Fondo son haba tonka, pachulí y musgo.",
+        "rutaimg": "../imagenes/mens/Fragancia Rochas L Homme Rochas.jpg",
+        "id": 20
+    },
+    {
+        "title": "Fragancia Trussardi Uomo The Red",
+        "precio": 9000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Aromática Fougère para Hombres. Las Notas de Salida son coñac, nuez moscada, cidra y gálbano; las Notas de Corazón son geranio, esclarea y hojas de violeta; las Notas de Fondo son haba tonka, cuero y pachulí.",
+        "rutaimg": "../imagenes/mens/Fragancia Trussardi Uomo The Red.jpg",
+        "id": 21
+    },
+    {
+        "title": "CK Everyone Eau de Toilette",
+        "precio": 14000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Cítrica Aromática para Hombres y Mujeres. Las Notas de Salida son aceite de naranja y jengibre; las Notas de Corazón son notas acuosas y té; las Notas de Fondo son almizcle, cedro, ámbar y pachulí.",
+        "rutaimg": "../imagenes/mens/CK Everyone Eau de Toilette.png",
+        "id": 22
+    },
+    {
+        "title": "Versace Man Eau Fraiche",
+        "precio": 15000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Amaderada Acuática para Hombres. La Nariz detrás de esta fragrancia es Olivier Cresp. Las Notas de Salida son limón (lima ácida), bergamota, carambola, cardamomo y palo de rosa de Brasil; las Notas de Corazón son cedro, estragón, salvia y pimienta; las Notas de Fondo son almizcle, notas amaderadas, azafrán, ámbar y madera de sicómoro.",
+        "rutaimg": "../imagenes/mens/Versace Man Eau Fraiche.jpg",
+        "id": 23
+    },
+    {
+        "title": "Le Beau Jean Paul Gaultier",
+        "precio": 28000 ,
+        "descripcion": "Le Beau, un Eau de Toilette para hombres construido alrededor de una adicción a la tonka y la madera de coco asociada con facetas frescas de bergamota. Una estela fresca y poderosa para un hombre seductor y ultra sexy.",
+        "rutaimg": "../imagenes/mens/Le Beau Jean Paul Gaultier.jpg",
+        "id": 24
+    }
+    ],
+    [
+    {
+        "title": "Fragancia Armani Si Intense",
+        "precio": 30000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Ámbar Floral para Mujeres. La Nota de Salida es sirope de grosella negra; las Notas de Corazón son rosa turca y Davana; las Notas de Fondo son benjuí y pachulí.",
+        "rutaimg": "../imagenes/women/Fragancia Armani Si Intense.jpg",
+        "id": 25
+    },
+    {
+        "title": "Fragancia Azzaro Wanted Girl",
+        "precio": 19000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Ámbar Floral para Mujeres. Las Notas de Salida son flor de jengibre, flor de azahar del naranjo, granada y pimienta rosa; las Notas de Corazón son dulce de leche y datura; las Notas de Fondo son haba tonka, pachulí y vetiver de Haití.",
+        "rutaimg": "../imagenes/women/Fragancia Azzaro Wanted Girl.jpg",
+        "id": 26
+    },
+    {
+        "title": "Fragancia Burberry Her",
+        "precio": 26000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Floral Frutal para Mujeres. Las Notas de Salida son pera, fresa, grosellas negras y pimienta rosa; las Notas de Corazón son peonía, madreselva, lirio de los valles (muguete) y rosa; las Notas de Fondo son almizcle y cedro.",
+        "rutaimg": "../imagenes/women/Fragancia Burberry Her.jpg",
+        "id": 27
+    },
+    {
+        "title": "Fragancia Coach Floral",
+        "precio": 18000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Almizcle Floral Amaderado para Mujeres. Las Notas de Salida son piña, pimienta rosa, naranja, bergamota y limón (lima ácida); las Notas de Corazón son gardenia, rosa de té, jazmín sambac (sampaguita) y hediona; las Notas de Fondo son almizcle, pachulí, vainilla, notas amaderadas y sándalo.",
+        "rutaimg": "../imagenes/women/Fragancia Coach Floral.jpg",
+        "id": 28
+    },
+    {
+        "title": "Fragancia Coach",
+        "precio": 25000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Floral para Mujeres. Las Notas de Salida son hojas de frambuesa, pera y pimienta rosa; las Notas de Corazón son rosa turca, gardenia y ciclamen (violeta persa); las Notas de Fondo son gamuza, almizcle, cachemira y sándalo.",
+        "rutaimg": "../imagenes/women/Fragancia Coach.jpg",
+        "id": 29
+    },
+    {
+        "title": "Fragancia Dolce&Gabbana Dolce Garden",
+        "precio": 29000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Floral Frutal Gourmand para Mujeres.Las Notas de Salida son magnolia, mandarina y neroli; las Notas de Corazón son coco, frangipani (plumeria, plumaria, atapaima) y ylang-ylang; las Notas de Fondo son absoluto de vainilla, leche de almendras y sándalo.",
+        "rutaimg": "../imagenes/women/Fragancia Dolce&Gabbana Dolce Garden.jpg",
+        "id": 30
+    },
+    {
+        "title": "Fragancia Dolce&Gabbana Dolce",
+        "precio": 29500 ,
+        "descripcion": "Es una fragancia de la familia olfativa Floral para Mujeres. Dolce se lanzó en 2014. Las Notas de Salida son neroli y flor del papayo; las Notas de Corazón son nenúfar (lirio de agua), narciso y amarilis; las Notas de Fondo son almizcle y cachemira.",
+        "rutaimg": "../imagenes/women/Fragancia Dolce&Gabbana Dolce.jpg",
+        "id": 31
+    },
+    {
+        "title": "Fragancia Givenchy Irresistible",
+        "precio":  19500 ,
+        "descripcion": "Es una fragancia de la familia olfativa Floral Frutal para Mujeres. Irresistible Givenchy fue creada por Fanny Bal, Dominique Ropion y Anne Flipo. Las Notas de Salida son pera y almizcle ambreta; las Notas de Corazón son rosa y iris; las Notas de Fondo son almizcle y cedro de Virginia.",
+        "rutaimg": "../imagenes/women/Fragancia Givenchy Irresistible.jpg",
+        "id": 32
+    },
+    {
+        "title": "Fragancia Givenchy L interdit",
+        "precio": 30000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Ámbar Floral para Mujeres. Las Notas de Salida son pera y bergamota; las Notas de Corazón son nardos, flor de azahar del naranjo y jazmín sambac (sampaguita); las Notas de Fondo son vainilla, pachulí, ambroxan y vetiver.",
+        "rutaimg": "../imagenes/women/Fragancia Givenchy L interdit.jpg",
+        "id": 33
+    },
+    {
+        "title": "Fragancia Hugo Boss Alive",
+        "precio": 27000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Amaderada Aromática para Mujeres.Las Notas de Salida son vainilla de Madagascar, ciruela, manzana, canela y grosellas negras; las Notas de Corazón son jazmín sambac (sampaguita) y tomillo; las Notas de Fondo son notas amaderadas, sándalo, cedro y olivo.",
+        "rutaimg": "../imagenes/women/Fragancia Hugo Boss Alive.jpg",
+        "id": 34
+    },
+    {
+        "title": "Fragancia Hugo Boss The Scent for her",
+        "precio": 28000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Floral Frutal para Mujeres. Boss The Scent For Her se lanzó en 2016. Las Notas de Salida son durazno (melocotón) y fresia; la Nota de Corazón es osmanto (olivo oloroso); la Nota de Fondo es cacao.",
+        "rutaimg": "../imagenes/women/Fragancia Hugo Boss The Scent for her.jpg",
+        "id": 35
+    },
+    {
+        "title": "Fragancia Kate Spade",
+        "precio": 24000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Floral Frutal para Mujeres.Las Notas de Salida son fresa salvaje, bergamota y cítricos; las Notas de Corazón son rosa y fresia; las Notas de Fondo son ambroxan y cachemira.",
+        "rutaimg": "../imagenes/women/Fragancia Kate Spade.jpg",
+        "id": 36
+    },
+    {
+        "title": "Fragancia Lacoste Pour Elle Sparkling",
+        "precio":18000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Floral Frutal Gourmand para Mujeres.Las Notas de Salida son manzana roja, especias, zarzamora (frambuesa negra) y mandarina; las Notas de Corazón son algodón de azúcar, macarrones dulces y lirio de los valles (muguete); las Notas de Fondo son almizcle, vetiver, madera de cachemira y pachulí.",
+        "rutaimg": "../imagenes/women/Fragancia Lacoste 12.12 Pour Elle Sparkling.jpg",
+        "id": 37
+    },
+    {
+        "title": "Fragancia Marc Jacobs Daisy Fresh",
+        "precio": 25000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Floral para Mujeres. Daisy Ever So Fresh se lanzó en 2022. Las Notas de Salida son piña, mango y mandarina; las Notas de Corazón son flor de azahar del naranjo y agua de rosas; la Nota de Fondo es madera de cachemira.",
+        "rutaimg": "../imagenes/women/Fragancia Marc Jacobs Daisy Fresh.jpg",
+        "id": 38
+    },
+    {
+        "title": "Fragancia Marc Jacobs Daisy Love",
+        "precio": 22000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Almizcle Floral Amaderado para Mujeres.La Nariz detrás de esta fragrancia es Alberto Morillas. La Nota de Salida es Camemoro; la Nota de Corazón es margarita; las Notas de Fondo son almizcle de cachemira y trozos de madera a la deriva.",
+        "rutaimg": "../imagenes/women/Fragancia Marc Jacobs Daisy Love.jpg",
+        "id": 39
+    },
+    {
+        "title": "Fragancia Mugler Alien",
+        "precio": 40000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Ámbar Amaderada para Mujeres. Alien se lanzó en 2005. Alien fue creada por Dominique Ropion y Laurent Bruyere. La Nota de Salida es jazmín; la Nota de Corazón es notas amaderadas; la Nota de Fondo es ámbar.",
+        "rutaimg": "../imagenes/women/Fragancia Mugler Alien.jpg",
+        "id": 40
+    },
+    {
+        "title": "Fragancia Mugler Angel",
+        "precio": 26000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Ámbar Vainilla para Mujeres. Las Notas de Salida son algodón de azúcar, coco, casis (grosellero negro), melón, jazmín, bergamota, piña y mandarina; las Notas de Corazón son miel, bayas rojas, zarzamora (frambuesa negra), ciruela, chabacano, durazno (melocotón), jazmín, orquídea, alcaravea, nuez moscada, rosa y lirio de los valles (muguete); las Notas de Fondo son pachulí, chocolate, caramelo, vainilla, haba tonka, ámbar, almizcle y sándalo.",
+        "rutaimg": "../imagenes/women/Fragancia Mugler Angel.jpg",
+        "id": 41
+    },
+    {
+        "title": "Fragancia Paco Rabanne Lady Million Fabulous intense",
+        "precio": 23000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Ámbar Floral para Mujeres. Las Notas de Salida son mandarina y pimienta rosa; las Notas de Corazón son nardos, jazmín, notas solares y ylang-ylang; las Notas de Fondo son vainilla, haba tonka y musgo.",
+        "rutaimg": "../imagenes/women/Fragancia Paco Rabanne Lady Million Fabulous intense.jpg",
+        "id": 42
+    },
+    {
+        "title": "Fragancia Paco Rabanne Lady Million Lucky",
+        "precio": 24000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Floral Frutal para Mujeres.La Nota de Salida es frambuesa; las Notas de Corazón son avellana, rosa y jazmín; las Notas de Fondo son miel, madera de cachemira, sándalo y cedro.",
+        "rutaimg": "../imagenes/women/Fragancia Paco Rabanne Lady Million Lucky.jpg",
+        "id": 43
+    },
+    {
+        "title": "Fragancia Rochas Girl",
+        "precio": 19000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Almizcle Floral Amaderado para Mujeres. Las Notas de Salida son neroli, grosellas negras y pimienta rosa; las Notas de Corazón son flor de azahar del naranjo, jazmín y orquídea; las Notas de Fondo son vainilla, sándalo y cedro.",
+        "rutaimg": "../imagenes/women/Fragancia Rochas Girl.jpg",
+        "id": 44
+    },
+    {
+        "title": "Fragancia Versace Bright Crystal",
+        "precio": 21000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Floral Frutal para Mujeres Las Notas de Salida son yuzu, granada y Hielo; las Notas de Corazón son peonía, flor de loto y magnolia; las Notas de Fondo son almizcle, caoba y ámbar.",
+        "rutaimg": "../imagenes/women/Fragancia Versace Bright Crystal.jpg",
+        "id": 45
+    },
+    {
+        "title": "Fragancia Versace Dylan Turquoise",
+        "precio": 23000 ,
+        "descripcion": "Es una fragancia de la familia olfativa Floral Frutal para Mujeres.Las Notas de Salida son limón (lima ácida), mandarina y pimienta rosa; las Notas de Corazón son guayaba, fresia, casis (grosellero negro) y jazmín; las Notas de Fondo son Clearwood, almizcle y cedro.",
+        "rutaimg": "../imagenes/women/Fragancia Versace Dylan Turquoise.jpg",
+        "id": 46
+    },
+    {
+        "title": "La Belle Fleur Terrible Jean Paul Gaultier",
+        "precio": 25000 ,
+        "descripcion": "La Belle Fleur Terrible de Jean Paul Gaultier es una fragancia de la familia olfativa Floral Acuática para Mujeres. Esta fragrancia es nueva. La Belle Fleur Terrible se lanzó en 2022. La Nota de Salida es nenúfar (lirio de agua), la Nota de Corazón es iris, la Nota de Fondo es vainilla.",
+        "rutaimg": "../imagenes/women/La Belle Fleur Terrible Jean Paul Gaultier.jpg",
+        "id": 47
+    },
+    {
+        "title": "Gabrielle Chanel",
+        "precio": 35000 ,
+        "descripcion": "Gabrielle de Chanel es una fragancia de la familia olfativa Floral para Mujeres. Las Notas de Salida son toronja (pomelo), mandarina y grosellas negras; las Notas de Corazón son flor de azahar del naranjo, jazmín, ylang-ylang, nardos, lirio de los valles (muguete), pera y pimienta rosa; las Notas de Fondo son almizcle, sándalo, cachemira y raíz de lirio.",
+        "rutaimg": "../imagenes/women/Gabrielle Chanel.jpg",
+        "id": 48
+    }
+    ],
+    [
+    {
+        "title": "Cheeky Lata Cool Boys Eau De Toilette",
+        "precio": 3000 ,
+        "descripcion": "Es una fragancia súper canchera de estilo fougere aromático, donde gotas de lavanda, limón, almizcle y ámbar se funden y acompañan a los chicos en sus aventuras y juegos durante todo el día. El diseño los invita a soñar e imaginar nuevos universos y planetas que los prepara para las más divertidas aventuras.",
+        "rutaimg": "../imagenes/kids/Cheeky Lata Cool Boys Eau De Toilette.jpg",
+        "id": 49
+    },
+    {
+        "title": "Cheeky Lata Pretty Girls Eau De Toilette",
+        "precio": 3000 ,
+        "descripcion": "El secreto de los mejores perfumes es la combinación perfecta entre ingredientes que se potencian entre sí y hacen que sea posible trasladarnos a lugares únicos. Disfrutá de esta fragancia en todo momento.",
+        "rutaimg": "../imagenes/kids/Cheeky Lata Pretty Girls Eau De Toilette.jpg",
+        "id": 50
+    },
+    {
+        "title": "Cheeky Lata Sweet Baby Eau De Toilette",
+        "precio": 2800 ,
+        "descripcion": "Salida de nerolí y naranjas, con un corazón de rosas y flores blancas. Cedro y petit grain.",
+        "rutaimg": "../imagenes/kids/Cheeky Mood Cute Baby Eau De Toilette.jpg",
+        "id": 51
+    },
+    {
+        "title": "Cheeky Mood Cute Baby Eau De Toilette",
+        "precio": 2900 ,
+        "descripcion": "Salida de nerolí y naranjas, con un corazón de rosas y flores blancas. Cedro y petit grain.",
+        "rutaimg": "../imagenes/kids/Cheeky Mood Cute Baby Eau De Toilette.jpg",
+        "id": 52
+    },
+    {
+        "title": "Cheeky Mood Rosa Lovely Girls Eau De Toilette",
+        "precio": 2000 ,
+        "descripcion": "Está inspirada en una nena que brilla con su sonrisa, su mirada dulce; simplemente es una nena feliz. Su fragancia es floral hesperídica, donde predomina la salida notas de bergamota, pomelo, manzana verde para luego completarse con un corazón de niña de jazmín, rosa y violetas.",
+        "rutaimg": "../imagenes/kids/Cheeky Mood Rosa Lovely Girls Eau De Toilette.jpg",
+        "id": 53
+    },
+    {
+        "title": "Cheeky Mood Verde Cool Kids Eau De Toilette",
+        "precio": 2000 ,
+        "descripcion": "Cool Kids es una fragancia diseñada para niños. De familia olfativa cítrica floral, donde se destacan notas de bergamota, naranja y lima, entrelazadas con notas de rosa, flor de azahar y muguet. Finalizando con un aroma a almizcle, ámbar y haba tonka.",
+        "rutaimg": "../imagenes/kids/Cheeky Mood Verde Cool Kids Eau De Toilette.jpg",
+        "id":54 
+    },
+    {
+        "title": "Kevignston Kids Celeste Eau De Cologne",
+        "precio": 2200 ,
+        "descripcion": "Esta colonia forma parte línea de KIDS para los más pequeños de la casa. KEVINGSTON KIDS se presentan con un packaging lleno de color y divertido. Los personajes divertidos de cada fragancia acompañarán a los chicos durante sus ratos de juegos, travesuras y sonrisas. Notas suaves cítricas, acuosas.",
+        "rutaimg": "../imagenes/kids/Kevignston Kids Celeste Eau De Cologne.jpg",
+        "id": 55
+    },
+    {
+        "title": "Kevingston “Fast Break” Shower Gel + Desodorante",
+        "precio": 1500 ,
+        "descripcion": "Esta fragancia se caracteriza por ser de tono amaderado, ambarado y oriental, donde sus notas de salida combinan citrus, notas aromáticas, naranja Roja y un cóctel de frutas brindando la explosión de frescura y energía necesarias para el juego. El cuerpo destaca notas de rosa, bouquet de notas florales y especiadas como la Canela, dando un toque actual y de fuerza. Finalmente, en el fondo ámbar, almizcle, sándalo, patchouli y Cuero lo que le da el cierre perfecto a esta fragancia.",
+        "rutaimg": "../imagenes/kids/Kevingston “Fast Break” Shower Gel + Desodorante.jpg",
+        "id": 56
+    },
+    {
+        "title": "Kevingston “Keep Wild” Shower Gel + Desodorante",
+        "precio": 1500 ,
+        "descripcion": "Esta fragancia forma parte de la línea de Personajes, a través de estos divertidos deportistas, propone una opción más liviana para un hombre juvenil, arreglado y descontracturado, preocupado por su aspecto. Ideal para su uso diario. Los mejores personajes inspirados en el espíritu del Rugby. Acuoso, amaderado, ambarado.",
+        "rutaimg": "../imagenes/kids/Kevingston “Keep Wild” Shower Gel + Desodorante.jpg",
+        "id": 57
+    },
+    {
+        "title": "Zara Little Girl",
+        "precio": 3000 ,
+        "descripcion": "Eau de toilette. La pirámide olfativa incluye notas de bergamota, pera y peonía. Es una fragancia envolvente y divertida.",
+        "rutaimg": "../imagenes/kids/Zara Little Girl.jpg",
+        "id": 58
+    },
+    {
+        "title": "Zara Little Girl Tuberose",
+        "precio": 2900 ,
+        "descripcion": "La versión para niños de nuestros perfumes favoritos. Eau de toilette floral. La pirámide olfativa incluye notas de casís, tuberosa y vainilla.",
+        "rutaimg": "../imagenes/kids/Zara Little Girl Tuberose.jpg",
+        "id": 59
+    },
+    {
+        "title": "Perfume Niños Paula Cahen Danvers En El Bosque",
+        "precio": 1800 ,
+        "descripcion": "Paula Cahen D Anvers lanza una nueva fragancia para niños unisex, En el bosque, danza encantada de frutos, flores, vainilla y sándalo.",
+        "rutaimg": "../imagenes/kids/Perfume Niños Paula Cahen Danvers En El Bosque.jpg",
+        "id": 60
+    }
+        ]
+
+  
+  ]
+  

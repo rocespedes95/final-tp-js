@@ -1,0 +1,27 @@
+@import"header";
+@import"ubicacion";
+@import"bodys";
+@import"footer";
+@import"contacto";
+@import"main";
+
+.titulo{
+    margin-top: 20px;
+    a{
+        text-decoration: none;
+        text-align: center;
+        h1{
+            font-size: 70px;
+            font-family:'Times New Roman', Times, serif;
+            color: #480ca8;
+            text-decoration: uppercase;
+            font-weight: bold;
+        }
+    }
+}
+
+
+ 
+
+
+
